@@ -6,3 +6,8 @@ node_js:
 os:
   - linux
   - osx
+env:
+  - BUCKLESCRIPT=true
+  - BUCKLESCRIPT=false
+script:
+  - ./test.sh
