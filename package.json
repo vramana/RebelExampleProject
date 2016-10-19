@@ -38,6 +38,7 @@
     "dependency-env": "https://github.com/reasonml/dependency-env.git",
     "reason": "https://github.com/facebook/reason.git",
     "rebel": "https://github.com/vramana/rebel.git#fix-flags",
+    "js_of_ocaml-bin": "https://github.com/reasonml/js_of_ocaml-bin.git",
     "realpath": "*"
   },
   "rebel": {
